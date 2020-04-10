@@ -2,7 +2,7 @@
 Pytorch examples for "Computer Vision Technology"
 https://www.hse.ru/ba/se/courses/292660280.html
 
-[Basic image operations (Pytorch HW)](hellworld/HelloWorld.ipynb)
+[Basic image operations (Pytorch HW)](/hellworld/HelloWorld.ipynb)
 
 - Load image and classes names
 - Convert image to tensor
