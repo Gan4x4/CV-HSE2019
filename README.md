@@ -22,7 +22,7 @@ https://www.hse.ru/ba/se/courses/292660280.html
 ## Train
 
 [Gradients flow](train/Understanding_grads.ipynb)
-- Gradient storing, and weights updating in PyTorch
+- Gradient storing and weights updating in PyTorch
 
 [Training model on custom dataset](train/Train_with_Tensorboard.ipynb)
 - Finetune model on custom dataset, freeze layers 
