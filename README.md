@@ -2,7 +2,7 @@
 Pytorch examples for "Computer Vision Technology"
 https://www.hse.ru/ba/se/courses/292660280.html
 
-#HW
+# HW
 
 [Basic image operations (Pytorch HW)](/helloworld/HelloWorld.ipynb)
 
@@ -19,7 +19,7 @@ https://www.hse.ru/ba/se/courses/292660280.html
 [Change existing model](helloworld/Change_model_structure.ipynb)
 - Add or modify layers of exsting PyTorch model 
 
-#Train
+# Train
 
 [Gradients flow](train/Understanding_grads.ipynb)
 - Gradient storing, and weights updating in PyTorch
@@ -29,7 +29,7 @@ https://www.hse.ru/ba/se/courses/292660280.html
 - Save weights on Google drive
 - Access Tensorboard from colab in convenient way
 
-#Video
+# Video
 
 [Template for object detection (excercise)](video/exercise.ipynb)
 - example of using Yolov3 detector
@@ -45,7 +45,7 @@ https://www.hse.ru/ba/se/courses/292660280.html
 - Increase batch size
 - Use IterableDataset
 
-#Extra
+# Extra
 
 [Obtain Masks form YOLACT](extra/YOLACT_get_mask.ipynb)
 
