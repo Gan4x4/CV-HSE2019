@@ -56,3 +56,7 @@ https://www.hse.ru/ba/se/courses/292660280.html
 [Detection human eye blinks](extra/Eye_blink_detection.ipynb)
 - Getting facial landmarks
 - Blink detector
+
+
+Large files stored with git-lfs: https://git-lfs.github.com/
+Install it before cloning this repo.
