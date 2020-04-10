@@ -2,7 +2,8 @@
 Pytorch examples for "Computer Vision Technology"
 https://www.hse.ru/ba/se/courses/292660280.html
 
-HW
+#HW
+
 [Basic image operations (Pytorch HW)](/helloworld/HelloWorld.ipynb)
 
 - Load image and classes names
@@ -18,7 +19,8 @@ HW
 [Change existing model](helloworld/Change_model_structure.ipynb)
 - Add or modify layers of exsting PyTorch model 
 
-Train
+#Train
+
 [Gradients flow](train/Understanding_grads.ipynb)
 - Gradient storing, and weights updating in PyTorch
 
@@ -27,7 +29,8 @@ Train
 - Save weights on Google drive
 - Access Tensorboard from colab in convenient way
 
-Video
+#Video
+
 [Template for object detection (excercise)](video/exercise.ipynb)
 - example of using Yolov3 detector
 
@@ -42,27 +45,14 @@ Video
 - Increase batch size
 - Use IterableDataset
 
-Extra
-[Obtain Masks form YOLACT](extra/.ipynb)
+#Extra
 
-[Detection colors of an image](extra/.ipynb)
-- quantize image using pillow package
+[Obtain Masks form YOLACT](extra/YOLACT_get_mask.ipynb)
 
-[Detection human eye blinks](extra/.ipynb)
+[Detection colors of an image](extra/Base_colors_detection.ipynb)
+- Image color quantization with pillow package
+- Get name of primary colors
+
+[Detection human eye blinks](extra/Eye_blink_detection.ipynb)
 - Getting facial landmarks
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Blink detector
